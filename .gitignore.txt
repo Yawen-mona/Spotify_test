@@ -1,4 +1,0 @@
-venv/
-weather.txt
-.ipynb_checkpoints/
-APIexample.json
